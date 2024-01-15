@@ -1,0 +1,435 @@
+# Translation of Themes - OwlPress in French (France)
+# This file is distributed under the same license as the Themes - OwlPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-06 15:15:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - OwlPress\n"
+
+#. Description of the theme
+msgid "OwlPress is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. OwlPress provides unique layouts Such as Service, Team, About, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon, Careers Page, and many more. Checkout Pro Version https://burgerthemes.com/demo/pro/owlpress/"
+msgstr "OwlPress est un thème d’affaires moderne et polyvalent pour l’agence, le commerce, la finance, le conseil, l’usine, l’immobilier, la construction, le service de nettoyage, la startup ou tout autre site individuel en raison de son adaptabilité. Il a une aspect parfait sur tous les navigateurs modernes, mobiles, tablettes, et tout appareil, Le thème est plein d’options de personnalisation et de réglages, vous pouvez presque tout changer. OwlPress fournit des mises en page uniques telles que Service, Équipe, À propos, Galerie, Pages de blog, Pages de boutique, Pages de tarifs, Page contact, Prochainement, Page carrières, et bien d’autres. Découvrez la version Pro https://burgerthemes.com/demo/pro/owlpress/"
+
+#. Theme Name of the theme
+msgid "OwlPress"
+msgstr "OwlPress"
+
+#: footer.php:56
+msgid "<a href=\"https://burgerthemes.com/owlpress-free/\">OwlPress</a>"
+msgstr "<a href=\"https://burgerthemes.com/owlpress-free/\">OwlPress</a>"
+
+#: inc/extras.php:159
+msgid "Get started with OwlPress"
+msgstr "Premiers pas avec OwlPress"
+
+#: inc/extras.php:157
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Installez et activez l’extension <strong>Burger Companion</strong> pour tirer pleinement avantage de toutes les fonctionnalités que ce thème a à offrir."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:153
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Bienvenue ! Merci d’avoir choisi %1$s !"
+
+#: inc/extras.php:146
+msgid "Theme Screenshot"
+msgstr "Captures d’écran du thème"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in OwlPress Pro"
+msgstr "Obtenez plus de fonctionnalités avec OwlPress Pro"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Page en pleine largeur"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Page d’accueil"
+
+#: template-parts/sections/section-header.php:132
+msgid "Header Above Collapse"
+msgstr "En-tête au dessus du repliage"
+
+#: template-parts/sections/section-header.php:128
+msgid "Header Close Menu"
+msgstr "En-tête de fermeture de menu"
+
+#: template-parts/sections/section-header.php:119
+msgid "Menu Collaped"
+msgstr "Menu replié"
+
+#: template-parts/sections/section-blog.php:53
+#: template-parts/sections/section-blog.php:54
+msgid "image"
+msgstr "image"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "Pages :"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page2.php:30
+msgid "Comments"
+msgstr "Commentaires"
+
+#: template-parts/content/content-page.php:41
+#: template-parts/content/content-page2.php:47
+#: template-parts/content/content-search.php:41
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: template-parts/content/content-page.php:24
+#: template-parts/content/content-page2.php:24
+#: template-parts/content/content-search.php:24
+msgid "By"
+msgstr "Par"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: searchform.php:15
+msgid "Search"
+msgstr "Rechercher"
+
+#: searchform.php:13
+msgid "Search …"
+msgstr "Rechercher…"
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire <span class=\"screen-reader-text\"> sur %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Étiqueté %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Publié dans  %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/extras.php:109
+msgid "Author: %s"
+msgstr "Auteur/autrice : %s"
+
+#: inc/extras.php:105
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: inc/extras.php:101
+msgid "Tag Archives: %s"
+msgstr "Archives du mot-clé %s"
+
+#: inc/extras.php:97
+msgid "Category Archives: %s"
+msgstr "Archives pour la catégorie %s"
+
+#: inc/extras.php:93
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+#: inc/extras.php:89
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+#: inc/extras.php:85
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+#: inc/customizer/customizer-options/owlpress_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/customizer/customizer-options/owlpress_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/customizer/customizer-options/owlpress_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: inc/customizer/customizer-options/owlpress_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Extension recommandée"
+
+#: inc/customizer/customizer-options/owlpress_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: inc/customizer/customizer-options/owlpress_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer OwlPress."
+msgstr "Installez et activez l’extension <strong>Burger Companion</strong> pour tirer pleinement avantage de toutes les fonctionnalités que le thème OwlPress a à offrir."
+
+#: inc/customizer/customizer-options/owlpress-header.php:132
+#: inc/customizer/customizer-options/owlpress-header.php:151
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: inc/customizer/customizer-options/owlpress-header.php:118
+msgid "Open in New Tab ?"
+msgstr "Ouvrir dans un nouvel onglet ?"
+
+#: inc/customizer/customizer-options/owlpress-header.php:100
+msgid "Link"
+msgstr "Lien"
+
+#: inc/customizer/customizer-options/owlpress-header.php:81
+msgid "Label"
+msgstr "Libellé"
+
+#: inc/customizer/customizer-options/owlpress-header.php:43
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/customizer/customizer-options/owlpress-header.php:23
+msgid "Header Navigation"
+msgstr "Navigation d’en-tête"
+
+#: inc/customizer/customizer-options/owlpress-general.php:53
+msgid "Hide / Show Section"
+msgstr "Masquer/Afficher la section"
+
+#: inc/customizer/customizer-options/owlpress-general.php:15
+msgid "Breadcrumb Section"
+msgstr "Section de fil d’Ariane"
+
+#: inc/customizer/customizer-options/owlpress-general.php:7
+msgid "General"
+msgstr "Général"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:279
+msgid "Payment Icon"
+msgstr "Icône de paiement"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:259
+msgid "Copytight"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:245
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Propulsé par [theme_author]"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:239
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:199
+#: inc/customizer/customizer-options/owlpress-footer.php:218
+msgid "Text"
+msgstr "Texte"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:178
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:141
+msgid "Support"
+msgstr "Support"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:122
+msgid "Footer Copyright"
+msgstr "Copyright de pied de page"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:103
+msgid "Opacity"
+msgstr "Opacité"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:84
+#: inc/customizer/customizer-options/owlpress-general.php:119
+msgid "Fixed"
+msgstr "Fixe"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:83
+#: inc/customizer/customizer-options/owlpress-general.php:118
+msgid "Scroll"
+msgstr "Défilement"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:82
+#: inc/customizer/customizer-options/owlpress-general.php:117
+msgid "Inherit"
+msgstr "Hérité"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:77
+#: inc/customizer/customizer-options/owlpress-general.php:111
+msgid "Background Attachment"
+msgstr "Image d’arrière-plan"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:58
+#: inc/customizer/customizer-options/owlpress-general.php:92
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:40
+#: inc/customizer/customizer-options/owlpress-general.php:74
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:20
+msgid "Footer Background"
+msgstr "Arrière-plan du pied de page"
+
+#: inc/customizer/customizer-options/owlpress-footer.php:10
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:133
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:113
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:93
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:74
+#: inc/customizer/customizer-options/owlpress-header.php:12
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:53
+#: inc/customizer/customizer-options/owlpress-footer.php:159
+#: inc/customizer/customizer-options/owlpress-footer.php:296
+#: inc/customizer/customizer-options/owlpress-header.php:61
+#: inc/customizer/customizer-options/owlpress-header.php:168
+msgid "Hide/Show"
+msgstr "Masquer/Afficher"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:35
+#: inc/customizer/customizer-options/owlpress-general.php:34
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:15
+msgid "Blog Section"
+msgstr "Section de blog"
+
+#: inc/customizer/customizer-options/owlpress-blog.php:7
+msgid "Frontpage Sections"
+msgstr "Sections de page d’accueil"
+
+#: inc/customizer/customizer-notify/owlpress-notify.php:111
+msgid "Activating"
+msgstr "Activation"
+
+#: inc/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:111
+msgid "The Footer Widget Area"
+msgstr "La zone de widgets du pied de page"
+
+#: functions.php:109
+msgid "Footer Widget Area"
+msgstr "Zone de widgets en pied de page"
+
+#: functions.php:101
+msgid "The Primary Widget Area"
+msgstr "La zone principale de widget"
+
+#: functions.php:99
+msgid "Sidebar Widget Area"
+msgstr "Zone de widget de colonne latérale"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:82
+msgid "scrollingUp"
+msgstr "défilement vers le haut"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: 404.php:24
+msgid "Back to Home"
+msgstr "Retour à l’accueil"
+
+#: 404.php:21
+msgid "Go back to the homepage if you dare!"
+msgstr "Retournez à la page d'accueil si vous l‘osez !"
+
+#: 404.php:21
+msgid "Uh oh! Looks like you got lost"
+msgstr "Uh oh ! On dirait que vous vous êtes perdu"
+
+#: 404.php:19
+msgid "404"
+msgstr "404"
+
+#. Theme URI of the theme
+msgid "https://burgerthemes.com/owlpress-free/"
+msgstr "https://burgerthemes.com/owlpress-free/"
+
+#. Author URI of the theme
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Author of the theme
+msgid "burgersoftware"
+msgstr "burgersoftware"

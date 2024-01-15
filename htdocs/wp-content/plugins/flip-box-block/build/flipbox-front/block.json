@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "flipbox-block/flipbox-front",
+	"version": "0.1.0",
+	"title": "Flip Box Front",
+	"description": "The block that appears in the front.",
+	"category": "design",
+	"parent": [ "flipbox-block/flipbox" ],
+	"supports": {
+		"reusable": false,
+		"html": false,
+		"className": true
+	},
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css"
+}
